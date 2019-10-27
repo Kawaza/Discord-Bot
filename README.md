@@ -23,5 +23,5 @@ This is the discord bot used for the Kritical Mass Esports Discord. It consists 
 ## Kritical Mass Info
 Kritical Mass is a gaming organization that started back when I was in highschool. The goal was to run tournaments and have players have the realy Tournament experience from there moms basement. Games are broadcasted and Shoutcasted by yours truely but more importantly it formed a community of players who love to play League of Legends or Dota2. If your interested here are some links.
 ### Kritical Mass Links 
-Discord: https://discord.gg/8uvnT58
-Twitch: https://www.twitch.tv/kriticalmg
+* **Discord: https://discord.gg/8uvnT58
+* **Twitch: https://www.twitch.tv/kriticalmg
